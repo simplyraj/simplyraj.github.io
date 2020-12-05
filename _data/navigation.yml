@@ -30,5 +30,5 @@ header:
       en      : &EN       Quotes
       url: /quotes.html
   - titles:
-      en      : &EN       Quotes
+      en      : &EN       Podcasts
       url: /podcasts.html
