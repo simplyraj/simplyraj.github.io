@@ -7,11 +7,6 @@ key: page-quotes
 ---
 A few quotes that portray qualities dear to my heart...
 
-**Rational**
-
-In God I trust. Everyone else must bring data.
--W. Edwards Deming
-
 **Persistence**
 
 Nothing in this world can take the place of persistence. Talent will not: nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not: the world is full of educated derelicts. Persistence and determination alone are omnipotent
@@ -39,3 +34,8 @@ The optimist thinks this is the best of all possible worlds. The pessimist fears
 
 If you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 -Albert Einstein
+
+**Rational**
+
+In God I trust. Everyone else must bring data.
+-W. Edwards Deming
