@@ -5,11 +5,3 @@ header:
     url: /quotes.html
   - title: Podcasts
     url: /podcasts.html
-  - title: Interests
-    subfolderitems:
-      - title: Thing 1
-        url: /thing1.html
-      - title: Thing 2
-        url: /thing2.html
-      - title: Thing 3
-        url: /thing3.html
